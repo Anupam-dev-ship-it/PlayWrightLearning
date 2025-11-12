@@ -1,0 +1,16 @@
+https://rahulshettyacademy.com/api/ecom/order/get-orders-for-customer/68d81102f669d6cb0aed7e83
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/68d81102f669d6cb0aed7e83
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/68d81102f669d6cb0aed7e83
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/68d81102f669d6cb0aed7e83 200
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/68d81102f669d6cb0aed7e83 200
+https://rahulshettyacademy.com/api/ecom/order/get-orders-for-customer/68d81102f669d6cb0aed7e83 200
+https://rahulshettyacademy.com/api/ecom/uploads/productImage_1650649561326.jpg
+https://rahulshettyacademy.com/api/ecom/uploads/productImage_1650649488046.jpg
+https://rahulshettyacademy.com/api/ecom/uploads/productImage_1650649561326.jpg 200
+https://rahulshettyacademy.com/api/ecom/uploads/productImage_1650649488046.jpg 200
+https://rahulshettyacademy.com/api/ecom/order/get-orders-details?id=690c70f9f669d6cb0a45ed70
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/68d81102f669d6cb0aed7e83
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/68d81102f669d6cb0aed7e83
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/68d81102f669d6cb0aed7e83 200
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/68d81102f669d6cb0aed7e83 200
+https://rahulshettyacademy.com/api/ecom/order/get-orders-details?id=68f13f4bf669d6cb0a17e1cc 400

@@ -1,0 +1,23 @@
+[
+    {
+
+        "username": "anupampatel1236@xyz.com",
+        "password": "Abc@123456",
+        "DesiredProduct": "iphone 13 pro",
+        "expDate": "12",
+        "expYear": "27",
+        "cvv": "123",
+        "nameOnCard": "Anupam Patel"
+    },
+    {
+
+        "username": "abc1236@ggamil.com",
+        "password": "Abc@123456",
+        "DesiredProduct": "ADIDAS ORIGINAL",
+        "expDate": "11",
+        "expYear": "30",
+        "cvv": "456",
+        "nameOnCard": "Jhon Doe"
+    }
+
+]
